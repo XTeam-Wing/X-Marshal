@@ -1,2 +1,32 @@
 # X-Go
-Golang分布式资产探测|漏洞扫描|信息收集
+
+> Go部署方便,速度更快,无需依赖,一键启动.
+> 欢迎PM
+
+
+## 技术栈
+### 前端
+Vue3+Vite+Naitive UI
+
+### Server端
+Go+Beego-Api+Redis+Mysql
+
+### Worker
+
+Go+Redis+Mysql
+
+## Preview
+主要时间md都花在前端上了.
+
+<img width="1767" alt="image" src="https://user-images.githubusercontent.com/25416365/165799249-98ac8e05-e3df-4205-a6dc-a1ad91674866.png">
+
+<img width="1786" alt="image" src="https://user-images.githubusercontent.com/25416365/165799367-5f4d054b-9025-4a67-bbc2-9e750c4ac81a.png">
+
+<img width="1778" alt="image" src="https://user-images.githubusercontent.com/25416365/165799572-614b0c78-4c9a-4b8c-87ce-bbc975bfcef3.png">
+
+<img width="1747" alt="image" src="https://user-images.githubusercontent.com/25416365/165799728-0584d70e-6f40-4ecb-8fd9-677ff3f9d86c.png">
+
+
+<img width="1780" alt="image" src="https://user-images.githubusercontent.com/25416365/165800009-044861ac-1bd9-4c50-9273-41803c4fb816.png">
+
+and so on.
