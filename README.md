@@ -1,22 +1,22 @@
 # X-Go
 
-> Go部署方便,速度更快,无需依赖,一键启动.
-> 欢迎PM
-
+- 分布式部署或者集群部署
+- 任务队列精准控制
+- 二进制文件或Docker直接部署
+- 欢迎有需求的老板PM
 
 ## 技术栈
 ### 前端
 Vue3+Vite+Naitive UI
 
 ### Server端
-Go+Beego-Api+Redis+Mysql
+Go+Beego-Api+Redis+Mysql+RPCX
 
 ### Worker
 
 Go+Redis+Mysql
 
 ## Preview
-主要时间md都花在前端上了.
 
 <img width="1767" alt="image" src="https://user-images.githubusercontent.com/25416365/165799249-98ac8e05-e3df-4205-a6dc-a1ad91674866.png">
 
