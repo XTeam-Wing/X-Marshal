@@ -1,9 +1,9 @@
-# X-Go
+# Marshal
 
-- 分布式部署或者集群部署
-- 任务队列精准控制
-- 二进制文件或Docker直接部署
-- 欢迎有需求的老板PM
+
+## MindMap
+
+<img width="1197" alt="image" src="https://user-images.githubusercontent.com/25416365/191478321-566716eb-06d0-40ea-99cf-cfcd465f0b7f.png">
 
 ## 技术栈
 ### 前端
