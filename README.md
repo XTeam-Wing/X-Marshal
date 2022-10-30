@@ -1,5 +1,13 @@
 # Marshal
 
+## 语雀文档<<X-Marshal公开版介绍>>
+https://www.yuque.com/docs/share/d3cf696f-7943-4601-9b26-ab701c9b7fdb?# 《X-Marshal公开版介绍》密码：evir
+
+## 怎么获取试用资格?
+
+加入星球私聊我即可.
+
+![海报](https://user-images.githubusercontent.com/25416365/198861636-d4302d2c-4b60-41ee-95bd-b1b6a8bc1454.png)
 
 ## MindMap
 
