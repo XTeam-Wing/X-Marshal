@@ -1,16 +1,19 @@
 # Marshal
 
+## HomePage
+[https://secmarshal.com](https://secmarshal.com)
+
 <img width="1824" alt="image" src="https://user-images.githubusercontent.com/25416365/217744606-d3d4e6e0-2bed-4afc-9d48-9193bb509f41.png">
 
 <img width="1601" alt="image" src="https://user-images.githubusercontent.com/25416365/228409797-80826d15-084e-4894-aa28-ddf9db1a890e.png">
 
 
-## 语雀文档<<X-Marshal公开版介绍>>
-https://www.yuque.com/docs/share/d3cf696f-7943-4601-9b26-ab701c9b7fdb?# 《X-Marshal公开版介绍》密码：evir
+## 语雀文档
+https://www.yuque.com/docs/share/d3cf696f-7943-4601-9b26-ab701c9b7fdb?# 密码：evir
 
-## 怎么获取试用资格?
+##  获取体验账号
 
-加入星球私聊我即可.
+在星球内私聊我即可。
 
 ![海报](https://user-images.githubusercontent.com/25416365/198861636-d4302d2c-4b60-41ee-95bd-b1b6a8bc1454.png)
 
@@ -19,15 +22,20 @@ https://www.yuque.com/docs/share/d3cf696f-7943-4601-9b26-ab701c9b7fdb?# 《X-Mar
 <img width="1197" alt="image" src="https://user-images.githubusercontent.com/25416365/191478321-566716eb-06d0-40ea-99cf-cfcd465f0b7f.png">
 
 ## 技术栈
-### 前端
-Vue3+Vite+Naitive UI
+### server
 
-### Server端
-Go+Beego-Api+Redis+Mysql+RPCX
+- Gin
+- ElasticSearch
+- Mysql
+- Redis
+- Vue
+- rpcx
+
 
 ### Worker
-
-Go+Redis+Mysql
+ - golang
+ - rpcx
+ - redis
 
 ## Preview
 
