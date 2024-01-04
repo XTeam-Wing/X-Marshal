@@ -2,6 +2,9 @@
 ## HomePage
 [https://secmarshal.com](https://secmarshal.com)
 
+## 产品使用文档
+飞书链接：https://c6k50tuyg6.feishu.cn/wiki/Px8XwxNtdieto0kVhHicDFWAnOe?from=from_copylink   密码：#69E6423
+
 ## 功能特性
 - 支持集群模式快速部署
 - 支持调用云服务接口快速扩容扫描节点
@@ -26,8 +29,6 @@
 - rpcx
 - OSS
 
-## 细节都在飞书文档
-https://c6k50tuyg6.feishu.cn/wiki/Tjezw7jVqicSREkPdT9cQirdnbh?from=from_copylink
 
 ##  如何获取体验账号
 
